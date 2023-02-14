@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36d39c6c-9e28-4c91-996e-daa5001e6199" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YearnMe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/models/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/models/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/repositories/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="36d39c6c-9e28-4c91-996e-daa5001e6199" name="Changes" comment="All algorithm of a blog page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,8 +83,16 @@
       <option name="presentableId" value="Default" />
       <updated>1676037103321</updated>
       <workItem from="1676037104676" duration="6793000" />
-      <workItem from="1676362189353" duration="3196000" />
+      <workItem from="1676362189353" duration="3500000" />
     </task>
+    <task id="LOCAL-00001" summary="All algorithm of a blog page">
+      <created>1676370598329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676370598329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All algorithm of a blog page" />
+    <option name="LAST_COMMIT_MESSAGE" value="All algorithm of a blog page" />
   </component>
 </project>
